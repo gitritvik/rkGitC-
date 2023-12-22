@@ -10,6 +10,5 @@ int main(){
     cout<<"ASCII value to the chareter Entered by you is- "<<int(d); // this is the logic to convert char to ascii.
 
 
-
     return 0;
 }
