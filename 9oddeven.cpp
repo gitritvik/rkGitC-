@@ -12,9 +12,7 @@ void oddeve(int a){
     cout<<"Entered no. is even";
     else 
     cout<<"Entered no. is Odd";
-
-
-    
+  
 }
 
 
